@@ -23,4 +23,5 @@
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight)
-![Lang Stats](http://ionicabizau.github.io/github-profile-languages/?user=airondev)
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?airondev" frameborder="0"></iframe>
