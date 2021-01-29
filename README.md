@@ -1,4 +1,4 @@
-### Hi there, thanks for dropping by  👋
+### Hi there, Welcome  👋
 #### My name is Aaron Aniebiet, I'm a Backend Developer and can equally go fullstack giving the right motivation (lolz)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Airondev.Airondev)
@@ -6,9 +6,9 @@
 
 ___
 
-- 🔭 I’m currently working on 3 (Nuxt Js, Express Js, and Laravel)  projects
+- 🔭 I’m currently working on 3 projects which span across Nuxt Js, Express Js, and Laravel
 
-- 🌱 I’m currently learning more Backend Technologies and Cloud Network Engineering
+- 🌱 I’m presently learning more Backend Technologies and Cloud Network Engineering
 
 - 👯 I’m looking to collaborate on Laravel, Express Js, Adonis Js, Vue Js, Nuxt Js and Golang Projects
 
@@ -29,19 +29,19 @@ ___
 
 ### :trophy: Languages
 <div>
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="50" style="vertical-align:top; margin:4px" />
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP Backend Developer Aaron Aniebiet"  title="PHP" height="50" style="vertical-align:top; margin:4px" />
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"  title="Javascript" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript Software Developer Aaron Aniebiet"  title="Javascript" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" title="Dart" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart Software Developer Aaron Aniebiet" title="Dart" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" title="Golang" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang Software Developer Aaron Aniebiet" title="Golang" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" title="NodeJS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS Software Developer Aaron Aniebiet" title="NodeJS" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Web Developer Aaron Aniebiet" title="HTML" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="CSS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Web Developer Aaron Aniebiet" title="CSS" height="50" style="vertical-align:top; margin:4px">
 </div>
 
 ___
@@ -49,17 +49,38 @@ ___
 
 ### :trophy: Frameworks:
 <div>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" title="Laravel" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel Backend Developer Aaron Aniebiet" title="Laravel" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vuejs"  title="Vue Js" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vuejs Fullstack Developer Aaron Aniebiet"  title="Vue Js" height="50" style="vertical-align:top; margin:4px">
  
- <img src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" alt="Nuxt Js"  title="Nuxt JS" height="50" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" alt="Nuxt Js Fullstack Developer Aaron Aniebiet"  title="Nuxt JS" height="50" style="vertical-align:top; margin:4px">
  
- <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="next Js"  title="Next Js" height="50" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next Js Fullstack Developer Aaron Aniebiet"  title="Next Js" height="50" style="vertical-align:top; margin:4px">
  
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Js"  title="Express JS" height="50" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Js Backend Developer Aaron Aniebiet"  title="Express JS" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="Adonis"  title="Adonis JS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="Adonis"  title="Adonis JS Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap Web Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
+</div>
+
+___
+
+### :trophy: Tools:
+<div>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" desc="Aaron Aniebiet uses GIT" alt="Git Backend Developer Aaron Aniebiet" title="Git" height="50" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" desc="Aaron Aniebiet AWS" alt="AWS Backend Developer Aaron Aniebiet"  title="AWS" height="50" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL Js Backend Developer Aaron Aniebiet"  title="MYSQL" height="50" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code Js Software Developer Aaron Aniebiet"  title="Next Js" height="50" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Js Backend Developer Aaron Aniebiet"  title="Express JS" height="50" style="vertical-align:top; margin:4px">
+
+<img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="Adonis Software Developer Aaron Aniebiet"  title="Adonis JS" height="50" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
 
