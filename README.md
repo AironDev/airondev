@@ -87,10 +87,8 @@ ___
 <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Apache Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
 
 <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" alt="Microsoft Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
-</div>
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
-</div>
 
 <img src="https://raw.githubusercontent.com/github/explore/22ff3a54144457812f353aa3cf42b85db57769fe/topics/composer/composer.png" alt="Composer Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
 </div>
