@@ -17,21 +17,20 @@
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
 
-___
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" />
+<a href="https://github.com/anuraghazra/convoychat" align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
 
-___
+<br />
+
 
 
 ### :trophy: Languages:
-<div align="left">
+<div>
 
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px">
 
