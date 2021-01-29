@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Airondev.Airondev)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/airondev)
 
-
+___
 
 - 🔭 I’m currently working on 3 (Nuxt Js, Express Js, and Laravel)  projects
 
@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
+___
 
 ### :trophy: Languages
 <div>
