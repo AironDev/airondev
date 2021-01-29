@@ -18,13 +18,16 @@ ___
 
 ___
 
- <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px" />
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" alt="PHP"  title="PHP" height="400" style="vertical-align:top; margin:4px" />
+
 
 ***
 
 ### :trophy: Languages
 <div>
- <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px" />
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"  title="Javascript" height="60" style="vertical-align:top; margin:4px">
 
