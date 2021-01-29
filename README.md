@@ -18,6 +18,5 @@
 
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight)
