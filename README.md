@@ -16,17 +16,11 @@
 
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
-
-<div>
-<div align="left">
-### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight)
- </div>
- <div align="right">
+ 
  ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight)
- </div>
- </div>
+
 
 ___
 ### :trophy: Languages:
