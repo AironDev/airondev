@@ -16,13 +16,22 @@
 
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true)
- 
- ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
-
 
 ___
+
+### Top Languages
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" />
+</a>
+
+ ### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
+</a>
+
+___
+
+
 ### :trophy: Languages:
 <p align="left">
 
