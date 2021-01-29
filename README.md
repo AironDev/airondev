@@ -20,3 +20,6 @@
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight)
