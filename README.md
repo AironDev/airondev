@@ -47,7 +47,7 @@ ___
 ___
 
 
-### :trophy: Frameworks:
+### :tokyo_tower: Frameworks:
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel Backend Developer Aaron Aniebiet" title="Laravel" height="50" style="vertical-align:top; margin:4px">
 
@@ -70,7 +70,7 @@ ___
 
 ___
 
-### :trophy: Tools:
+### :hammer: Tools:
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" desc="Aaron Aniebiet uses GIT" alt="Git Backend Developer Aaron Aniebiet" title="Git" height="50" style="vertical-align:top; margin:4px">
 
