@@ -24,6 +24,7 @@
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight)
 
+___
 ### :trophy: Languages and Tools:
 <p align="center">
  
@@ -66,5 +67,28 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+
+___
+### :trophy: Frameworks:
+<p align="center">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" title="Laravel" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vuejs"  title="Vue Js" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" alt="Nuxt Js"  title="Nuxt JS" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="next Js"  title="Next Js" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Js"  title="Express JS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="Adonis"  title="Adonis JS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" height="40" style="vertical-align:top; margin:4px">
+
+</p>
+
 
 <br />
