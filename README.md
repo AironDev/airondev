@@ -18,9 +18,9 @@ ___
 
 ___
 
-# Stats
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px">
-___
+
+***
 
 ### :trophy: Languages
 <div>
