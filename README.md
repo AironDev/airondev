@@ -16,3 +16,8 @@
 
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
