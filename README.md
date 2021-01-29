@@ -18,9 +18,11 @@ ___
 
 ___
 
- <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px" />
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" alt="PHP"  title="PHP" height="400" style="vertical-align:top; margin:4px" />
+<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" height="50%" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" alt="PHP"  title="PHP" height="400" style="vertical-align:top; margin:4px" />
 
 
 ***
