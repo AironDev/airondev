@@ -7,9 +7,12 @@
 
 
 - 🔭 I’m currently working on 3 (Nuxt Js, Express Js, and Laravel)  projects
+
 - 🌱 I’m currently learning more Backend Technologies and Cloud Network Engineering
+
 - 👯 I’m looking to collaborate on Laravel, Express Js, Adonis Js, Vue Js, Nuxt Js and Golang Projects
+
 - 🤔 I’m looking for help with paid remote internships
-- 📫 How to reach me: airondev.github.io
+
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
