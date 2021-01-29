@@ -64,6 +64,8 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap Web Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Wordpress Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
 </div>
 
 ___
@@ -78,13 +80,19 @@ ___
  
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code Js Software Developer Aaron Aniebiet"  title="Next Js" height="50" style="vertical-align:top; margin:4px">
  
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Js Backend Developer Aaron Aniebiet"  title="Express JS" height="50" style="vertical-align:top; margin:4px">
+ <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="GCP Cloud Backend Developer Aaron Aniebiet"  title="GCP" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" alt="Adonis Software Developer Aaron Aniebiet"  title="Adonis JS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure Microsoft Software Developer Aaron Aniebiet"  title="Adonis JS" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Apache Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" height="50" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" alt="Microsoft Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
+</div>
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
+</div>
+
+<img src="https://raw.githubusercontent.com/github/explore/22ff3a54144457812f353aa3cf42b85db57769fe/topics/composer/composer.png" alt="Composer Software Developer Aaron Aniebiet" height="50" style="vertical-align:top; margin:4px">
 </div>
 
 <br />
