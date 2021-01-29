@@ -16,10 +16,10 @@
 
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true)
  
  ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
 
 ___
