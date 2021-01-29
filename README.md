@@ -17,17 +17,8 @@
 - ⚡ Fun fact: The day you stop learning; is the day you stop living
 
 
+### :trophy: Languages
 <div>
-<a href="https://github.com/anuraghazra/convoychat" align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
-</a>
-</div>
-
-
-<div align="left">
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"  title="PHP" height="60" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"  title="Javascript" height="60" style="vertical-align:top; margin:4px">
@@ -47,8 +38,7 @@ ___
 
 
 ### :trophy: Frameworks:
-<div align="left">
- 
+<div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" title="Laravel" height="60" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vuejs"  title="Vue Js" height="60" style="vertical-align:top; margin:4px">
@@ -64,7 +54,6 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" height="60" style="vertical-align:top; margin:4px">
-
 </div>
 
 
