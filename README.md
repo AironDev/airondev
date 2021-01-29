@@ -29,6 +29,8 @@ ___
 
 ___
 
+___
+
 ### :trophy: Languages:
 <p align="left">
 
@@ -50,6 +52,8 @@ ___
 </p>
 
 ___
+
+
 ### :trophy: Frameworks:
 <p align="center">
  
