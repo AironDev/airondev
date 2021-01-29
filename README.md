@@ -21,7 +21,7 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airondev&theme=tokyonight&=true&show_icons=true" alt="PHP"  title="PHP" style="vertical-align:top; margin:4px" align="right" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=airondev&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" heigth="50%"/>
 </a>
 
 
