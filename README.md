@@ -54,9 +54,13 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=airondev&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=airondev&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@airondev"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> For More Information, Please Check Out or Connect Me Via
+---
+<h3 align="center">
+For More Information, Please Check Out or Connect Me Via
+</h3>
 <p align="center">
   <a href="mailto:airondev@gmail.com" >
     <img align="center" alt="airondev | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
